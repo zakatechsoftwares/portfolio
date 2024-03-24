@@ -42,6 +42,7 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
+  color: white;
   /* Add the styles here */
 }
 
